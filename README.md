@@ -1,2 +1,2 @@
 # async-dfyon
-Fonctions et modèles communs pour le code asynchnone
+Fonctions et modèles communs pour le code asynchrone
